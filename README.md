@@ -63,9 +63,6 @@ Note: The payment page is created only for demo purpose and its not fully integr
 ![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/990595ce-856c-46fe-8182-052a127d67b4)
 - Order Details & Status
 ![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/db8b4511-cac0-41df-930a-ef3bdebe5c24)
-- User Profile
-![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/aa22b0cd-726b-4e5c-85cd-5409b7fc5391)
-
 - Admin Home
 ![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/0e909800-b9a2-4ece-884c-24cdc8ca931a)
 - Stock Items
